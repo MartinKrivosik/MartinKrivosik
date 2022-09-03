@@ -6,6 +6,7 @@
 - 🏢 I'm currently studying at **STU FEI**
 - ⚙️ I used daily: `.c`, `.py`, `.html`, `.css`, `.sql`, `.java` 
 - 🌱 Learning more about and studying: **anything available**
+- :microphone: Speaking: English, German, Slovak
 - 📫 Reach me: martink.krivosik@gmail.com
 - 💜 Interests: sports, video games, music
 
